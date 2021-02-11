@@ -193,3 +193,11 @@ id,type,domain,enabled,date_added,date_modified,comment
 232,0,connectivitycheck.gstatic.com,1,1612992752,1612992752,"Owned by Google. Used by mobiles devices to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk"
 233,0,connectivitycheck.android.com,1,1612992752,1612992752,"Owned by Google. Used by mobiles devices to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk"
 234,0,www.msftconnecttest.com,1,1612992752,1612992752,"Owned by Microsoft. Used by Windows systems to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk"
+235,2,(\.|^)quip\.com$,1,1613050913,1613050913,Salesforce
+236,2,(\.|^)salesforce\.com$,1,1613050920,1613050920,Salesforce
+237,2,(\.|^)marketingcloud\.com$,1,1613050928,1613050928,Salesforce
+238,2,(\.|^)force\.com$,1,1613050934,1613050934,Salesforce
+239,2,(\.|^)exacttarget\.com$,1,1613050939,1613050939,Salesforce
+240,0,meet.google.com,1,1613051173,1613051173,Google
+241,0,hangouts.google.com,1,1613051181,1613051181,Google
+242,0,gmail.com,1,1613051187,1613051187,Google
