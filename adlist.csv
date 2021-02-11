@@ -1,2 +1,13 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
 2,https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt,1,1612991672,1612991672,Malware,1612991677
+3,https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt,1,1613002052,1613002052,Malware,1613002138
+4,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1613002064,1613002064,Malware,1613002383
+5,https://v.firebog.net/hosts/Shalla-mal.txt,1,1613002074,1613002074,Malware,1613002139
+6,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1613002085,1613002085,Phishing,1613002140
+7,https://urlhaus.abuse.ch/downloads/hostfile/,1,1613002115,1613002115,Malware,1613002386
+8,https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt,1,1613002126,1613002126,Phishing,1613002386
+9,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1613002187,1613002187,Malware,1613002280
+10,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,1,1613002229,1613002229,Malware,1613002387
+11,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1613002250,1613002250,Malware,1613002388
+12,https://v.firebog.net/hosts/Prigent-Crypto.txt,1,1613002268,1613002268,Malware,1613002282
+13,https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt,1,1613002313,1613002313,Malware,1613002325
